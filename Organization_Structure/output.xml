@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<organization>
+    <department name="Carolina">
+        <employee name="Richard" salary="403" />
+        <employee name="Nate Middle" salary="5000" />
+    </department>
+    <department name="NewYork">
+        <employee name="John Pork" salary="50" />
+    </department>
+</organization>
