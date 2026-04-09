@@ -1,6 +1,8 @@
+import Organization_Structure.Department;
+
 public class Main {
 
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] arColor
 
         Component organization = new Organization();
 

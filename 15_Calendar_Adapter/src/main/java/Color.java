@@ -1,13 +1,13 @@
 import java.util.Calendar;
 
-public class CalendarToNewDateAdapter implements NewDateInterface {
+public class Color implements NewDateInterface {
     private final Calendar date;
 
-    public CalendarToNewDateAdapter() {
+    public Color() {
         this.date = Calendar.getInstance();
     }
 
-    public CalendarToNewDateAdapter(Calendar date) {
+    public Color(Calendar date) {
         this.date = date;
     }
 
